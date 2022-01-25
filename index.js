@@ -49,3 +49,4 @@ if(dragonAnswer == 'past'){
     }else if(fourthAnswer == 'pick'){
         var drawPick = window.alert(`You pick the flower and bring it home, and all marvel at its brilliance. However, over time it fades and eventually crumbles to dust.`)
     }
+// lets test to see if the comment and staging process is working properly. 
